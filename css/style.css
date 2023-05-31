@@ -1,0 +1,19 @@
+body {
+  background: #000;
+  overflow: hidden;
+  margin: 0;
+}
+.tym_anh{
+  width: 250px;
+  list-style-type: none;
+  border-radius: 5px;
+  height: 35px;
+  background-color: palevioletred;
+  position: absolute;
+    left: 41%;
+    top: 15%;
+}
+.tym_anh a{
+    text-decoration: none;
+    color: #000;
+}
